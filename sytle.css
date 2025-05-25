@@ -1,0 +1,149 @@
+/* *{
+    font-family: Arial, Helvetica, sans-serif;
+}
+table{
+    width: 600px;
+    margin: 10px auto;
+    border-spacing: 0px 0px;
+ 
+}
+tr.even{
+    background-color: lightskyblue;
+}
+tr:hover{
+    background-color: gray;
+}
+th,td{
+    padding: 10px;
+    border: 2px solid lightsteelblue;
+    
+} */
+
+
+
+
+/* 
+form{
+    width: 500px;
+    padding: 10px;
+    margin: 10px auto;
+}
+input{
+    padding: 10px;
+    margin: 5px;
+    font-size: 1em;
+}
+input.email{
+    background-image: url(https://img.freepik.com/free-psd/phone-icon-design_23-2151311652.jpg?semt=ais_hybrid&w=740);
+    background-size: 32px;
+    background-repeat: no-repeat;
+    padding: 5px 10px 10px 40px;
+}
+input.password{
+    background-image: url(https://img.freepik.com/premium-vector/password-protection-icon-password-vector-icon_654297-113.jpg);
+    background-size: 50px;
+    background-repeat: no-repeat;
+    padding: 5px 10px 10px 40px;
+}
+input:focus{
+    border-color: royalblue;
+}
+button{
+    padding: 10px;
+    margin: 5px;
+    font-size: 1em;
+    border: none;
+    background-color: royalblue;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+fieldset{
+    border-radius: 10px;
+    border: 1px solid gray;
+}
+legend{
+    padding: 10px;
+    background-color: gray;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    text-align: left;
+}
+.center{
+    text-align: center;
+}
+
+label{
+    display: inline-block;
+    width: 100px;
+    text-align: right;
+} */
+
+/* 
+body{
+    background-color: aqua;
+}
+.black{
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin: 5px 10px 5px 10px;
+
+}
+.white{
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin: 5px 10px 5px 10px;
+} */
+
+/* 
+img{
+    position: absolute;
+    top: 85px;
+    right: 510px;
+} */
+
+
+/* 
+img{
+    position: fixed;
+    top: 85px;
+    right: 510px;
+} */
+
+
+
+
+
+
+/* img{
+    position: fixed;
+    bottom: 10px;
+    right: 20px;
+    z-index: 10;
+} */
+
+
+
+
+
+@import url(index.css);
+.first{
+    width: 320px;
+    height: 50px;
+    background-color: red;
+    float: left;
+}
+.second{
+    width: 142px;
+    height: 50px;
+    background-color: blue;
+    float: left;
+}
+p{
+    clear: both;
+}
